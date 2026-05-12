@@ -1,0 +1,14 @@
+Package: org.Atair10.eg.db
+Title: Genome wide annotation for At tair10
+Description: Genome wide annotation for At tair10, primarily based on mapping using Entrez Gene identifiers.
+Version: 0.1
+Author: hubinbin <hb160327@163.com>
+Maintainer: hubinbin <hb160327@163.com>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.52.0)
+Suggests: DBI, annotate, RUnit
+Imports: methods, AnnotationDbi
+License: Artistic-2.0
+organism: At tair10
+species: At tair10
+biocViews: OrgDb, annotation
+
